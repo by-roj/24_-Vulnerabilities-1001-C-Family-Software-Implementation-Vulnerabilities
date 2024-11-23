@@ -8,7 +8,7 @@
 
 ​		  ① [CVE-2021-20294]()
 
-​		  ① [CVE-2021-21574]()
+​		  ② [CVE-2021-21574](https://github.com/by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation/blob/main/CVE-2021-21574.md)
 
 <br>
 
