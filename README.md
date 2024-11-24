@@ -26,6 +26,6 @@
 
 ### 4. Use After Free
 
-​		  ① [CVE-2020-9715]()
+​		  ① [CVE-2020-9715](https://github.com/by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation/blob/main/Use%20After%20Free/CVE-2020-9715.md)
 
-​		  ② [CVE-2023-29336]()
+​		  ② [CVE-2023-29336](https://github.com/by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation/blob/main/Use%20After%20Free/CVE-2023029336.md)
