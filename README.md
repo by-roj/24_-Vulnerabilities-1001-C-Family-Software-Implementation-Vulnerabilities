@@ -1,6 +1,7 @@
 # Vulnerability Analysis and PoC Reimplementation
 
-취약점 분석 및 PoC 코드 재구현
+Utilizing reverse engineering tools and a variety of programming languages such as Python and C/C++
+> 리버스 엔지니어링 도구를 활용한 취약점 분석 및 Python, C/C++ 등 다양한 프로그래밍 언어를 통한 PoC 코드 재구현
 
 <br>
 
