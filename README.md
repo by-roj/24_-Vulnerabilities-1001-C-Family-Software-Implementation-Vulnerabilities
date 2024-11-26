@@ -8,7 +8,7 @@ Utilizing reverse engineering tools and a variety of programming languages
 ### 1. (Linear) Stack Buffer Overflows
 
 ​		  ① [CVE-2021-21574](https://github.com/by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation/blob/main/(Linear)%20Stack%20Buffer%20Overflow/CVE-2021-21574.md)<br>
-&emsp;&emsp;&emsp;&emsp;`Dell | UEFI BIOS → Dell BIOSConnect`
+&emsp;&emsp;> Dell | UEFI BIOS → Dell BIOSConnect
 
 ​		  ② [CVE-2021-20294](https://github.com/by-roj/24_Vulnerability-Analysis-and-PoC-Reimplementation/blob/main/(Linear)%20Stack%20Buffer%20Overflow/CVE-2021-20294.md)
 
